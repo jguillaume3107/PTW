@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_list_1" label="Child" language="en" table="x_183141_pt_workfl_ptwave">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_list_1</element>
+            <help/>
+            <hint/>
+            <label>Child</label>
+            <language>en</language>
+            <name>x_183141_pt_workfl_ptwave</name>
+            <plural>Childs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 12:55:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9d9a5616db630300ce35d421cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Child</sys_name>
+            <sys_package display_value="Product Transfer Workflow" source="x_183141_pt_workfl">deafdb21db230300ce35d421cf96190a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Product Transfer Workflow">deafdb21db230300ce35d421cf96190a</sys_scope>
+            <sys_update_name>sys_documentation_x_183141_pt_workfl_ptwave_u_glide_list_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 12:55:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
